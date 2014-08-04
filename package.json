@@ -1,0 +1,10 @@
+{
+    "name": "DevOps-Intro",
+    "private": false,
+    "version": "0.0.1",
+    "description": "Intro to Devops",
+    "author": "Garland Kan <garlandk@gmail.com>",
+    "dependencies": {
+        "express": ">=3.4.8"
+    }
+}
